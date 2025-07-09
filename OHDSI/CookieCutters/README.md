@@ -11,6 +11,6 @@ Cookies taste better when they are in the shape of the OHDSI logo!
 
 ## OHDSI NL Windmill
 
-![OHDSI NL windmill cookie cutter](OHDSI_Logo.jpeg)
+![OHDSI NL windmill cookie cutter](OHDSI_NL_Windmill.jpeg)
 
 The windmill is a well-known symbol of the Netherlands Chapter of OHDSI.
